@@ -1,4 +1,3 @@
-
 /**
  * Contains the miscellaneous route handlers.
  * @author Segni Assaye <https://github.com/Segniko>
